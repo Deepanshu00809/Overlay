@@ -1,0 +1,48 @@
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.cur{
+    cursor: pointer;
+}
+/* .box1{
+    width: 200px;
+    height: 50px;
+}
+.box2{
+    width: 200px;
+    height: 50px;
+    margin-left: 2%;
+} */
+
+
+
+.me-2{
+    width: 80%;
+}
+.Name{
+    width: 70%;
+    height: 20%;
+
+
+}
+.T{
+    font-size: x-large;
+    
+   
+}
+.go{
+    width: 50%;
+}
+.Class{
+    cursor: pointer;
+    font-size: xx-large;
+    color: #b72727;
+    text-align: center;
+}
+/* .footerstyle{
+    padding: 20px;
+    margin-top: 20px;
+
+} */
